@@ -1,0 +1,6 @@
+{
+  "name": "PALMA TRAVEL — Ultra-Premium Egyptian Tourism",
+  "description": "Ultra-premium editorial tourism website theme for Palma Travel. Bespoke Egyptian journeys, private Nile cruises, sunrise hot air balloon flights, and curated cultural expeditions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
